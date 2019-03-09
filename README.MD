@@ -7,5 +7,5 @@ Apart from serving your servers the bot is connected to some great comunnities w
 which means that you will be able to save your self some money from buying steam cards hahaha. 
 Deadpool can be also used to check your game stats . Run !fortnite to check your fortnite stats 
 
-**Incase you find any bugs consider reporting them to the support server : https://discord.gg/PsQxXdr
+**Incase you find any bugs consider reporting them to the support server :** https://discord.gg/PsQxXdr
 https://discordbots.org/api/widget/507534048822820875.svg?usernamecolor=FFFFFF&topcolor=000000
